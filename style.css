@@ -1,0 +1,12 @@
+body {
+    padding: 20px;
+}
+
+.startingItem {
+    margin: 10px;
+}
+
+.form-group {
+    float: right;
+    margin: 20px;
+}
